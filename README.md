@@ -9,3 +9,8 @@
 * Daniela Carolina Sanabria Guerrero -201116798
 * Juan Camilo Florez - 201620135
 
+A continuación se analizará una serie de tiempo en la cual se tiene la información del número de quejas y reclamos recibidas día a día para la línea de negocio ARL desde el año 2018 a la fecha; esta línea de negocio está encargada de atender a todas aquellas personas que cuentan con una póliza en la cual se le cubran todos los gastos en caso de sufrir un accidente laboral.
+
+Analizar esta serie y su comportamiento es de vital importancia para la compañía ya que en la medida que se controle y entienda el comportamientos de las quejas y reclamos se podrán prestar soluciones oportunas y anticipadas a los clientes, lo cual contribuirá en una mejora de en la calidad del servicio y el reconocimiento de la compañía.
+
+De esta manera, se realizará un modelo de análisis de series de tiempo ARIMA para anticipar el número de quejas en un horizonte temporal de un mes desde el 01 de junio hasta el 30 de junio de 2020. Cabe resaltar que adicionalmente, se revisará el efecto de los días feriados en Colombia para evitar este ruido al momento del análisis.
