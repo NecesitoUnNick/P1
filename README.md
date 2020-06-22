@@ -1,7 +1,7 @@
-## Proyecto 1 - TSA & Prophet
-# Departamento de Ingeniería Industrial
-# Maestría en inteligencia analítica para la toma de decisiones
-# Modelos Avanzados de Análisis de Datos 1
+### Proyecto 1 - TSA & Prophet
+#### Departamento de Ingeniería Industrial
+#### Maestría en inteligencia analítica para la toma de decisiones
+#### Modelos Avanzados de Análisis de Datos 1
 
 
 * Angela Fernanda Romero Fonseca - 201819276
