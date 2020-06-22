@@ -13,4 +13,4 @@ A continuación se analizará una serie de tiempo en la cual se tiene la informa
 
 Analizar esta serie y su comportamiento es de vital importancia para la compañía ya que en la medida que se controle y entienda el comportamientos de las quejas y reclamos se podrán prestar soluciones oportunas y anticipadas a los clientes, lo cual contribuirá en una mejora de en la calidad del servicio y el reconocimiento de la compañía.
 
-De esta manera, se realizará un modelo de análisis de series de tiempo ARIMA para anticipar el número de quejas en un horizonte temporal de un mes desde el 01 de junio hasta el 30 de junio de 2020. Cabe resaltar que adicionalmente, se revisará el efecto de los días feriados en Colombia para evitar este ruido al momento del análisis.
+De esta manera, se realizará un modelo de análisis de series de tiempo ARIMA para anticipar el número de quejas en un horizonte temporal de un mes desde el 3 de junio hasta el 2 de julio de 2020. Cabe resaltar que adicionalmente, se revisará el efecto de los días feriados en Colombia para evitar este ruido al momento del análisis.
